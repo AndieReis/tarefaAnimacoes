@@ -6,7 +6,7 @@
 ##
 
 Veja o projeto rodando aqui:
-https://andiereis.github.io/Pagina-de-Login/
+https://andiereis.github.io/tarefaAnimacoes/
 
 ##
 Contatos:
